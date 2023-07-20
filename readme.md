@@ -1,3 +1,3 @@
-# In app browser Sample
+# In App Browser Sample
 
 This app shows how to hide an in-app browser window until the page has loaded and then show it.
